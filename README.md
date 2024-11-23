@@ -13,13 +13,16 @@ proyectos y mis intereses.
 
 * ## Información personal
 
-Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+Nombre: Diego Fernando Flores Rengifo
+* Ocupación: Estudiante
+* Lugar de residencia: Guayaquil, Ecuador
+* Sitio web: https://rendiego07.github.io/MyCV/
 
 
  Proyectos
-* [Lista de tus proyectos]
+* https://rendiego07.github.io/MyCV/
+* https://rendiego07.github.io/Landing/
 ## Intereses
-* [Lista de tus intereses]
+* Web development
+* Database managment
+  
