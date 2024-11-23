@@ -17,7 +17,7 @@ proyectos y mis intereses.
 Nombre: Diego Fernando Flores Rengifo
 * Ocupación: Estudiante
 * Lugar de residencia: Guayaquil, Ecuador
-* Sitio web: https://rendiego07.github.io/MyCV/
+* Sitio web: https://rendiego07.github.io/RenDiego07/
 
 
 ### Proyectos
@@ -27,7 +27,7 @@ Nombre: Diego Fernando Flores Rengifo
      - **HTML:** Para la estructura principal del currículum.  
      - **CSS:** Para el diseño visual del sitio.  
      - **JavaScript:** Para funcionalidades interactivas como validaciones y animaciones.  
- - [Repositorio del proyecto] (https://github.com/RenDiego07/MyCV)
+     - **[Repositorio del proyecto]** (https://github.com/RenDiego07/MyCV)
 2. **Landing page**
  - **Propósito:** Landing page para tienda de setups para escritorio
  - **Tecnologías utilizadas:**  
@@ -36,7 +36,7 @@ Nombre: Diego Fernando Flores Rengifo
      - **JavaScript:** Añade interactividad como carruseles y animaciones dinámicas.  
      - **Bootstrap:** Framework para un diseño responsivo y rápido.
      - **FireBase:** Base de datos no relacional para llevar registro de pedidos.  
- - [Repositorio del proyecto] (https://github.com/RenDiego07/Landing)
+     - **[Repositorio del proyecto]** (https://github.com/RenDiego07/Landing)
 3. **Renta un Cuento**
  - **Propósito:** Proporcionar una solución integral que combine una base de datos eficiente y una interfaz funcional para gestionar y visualizar información de manera clara y accesible
  - **Tecnologías utilizadas:**  
@@ -44,7 +44,7 @@ Nombre: Diego Fernando Flores Rengifo
      - **JavaFX:** Diseño de la interfaz gráfica para la interacción del usuario.  
      - **MySQL:** Almacenamiento y gestión de datos.  
      - **SQL:** Consultas para manipulación y obtención de datos.  
- - [Repositorio del proyecto] (https://github.com/RenDiego07/SistemaBD)
+     - **[Repositorio del proyecto]** (https://github.com/RenDiego07/SistemaBD)
 
 ## Intereses
 * Web development
